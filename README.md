@@ -2,7 +2,7 @@
 # About this repository
 This repository is for peer review of work "Generative Artificial Intelligence for In Silico Histopathology Image Synthesis from Raman Imaging as an Alternative to Intraoperative Assessment of Tongue Squamous Cell Carcinoma".
 # Before using
-Pleasee unzip the archived files, including 'data.zip', 'bestSataDict_UNET 128p.zip' and 'bestSataDict_ImgAlignNet.zip'. After unzip process, please the files and folders exists:
+Pleasee unzip the archived files, including 'data.zip', 'bestSataDict_UNET 128p.zip' and 'bestSataDict_ImgAlignNet.zip'. After unzip processes, please ensure the files and folders exists:
 ```
 -Root
 |-bestSataDict_UNET 128p.pt
