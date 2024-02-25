@@ -3,6 +3,7 @@
 This repository is for peer review of work "Generative Artificial Intelligence for In Silico Histopathology Image Synthesis from Raman Imaging as an Alternative to Intraoperative Assessment of Tongue Squamous Cell Carcinoma".
 # Before using
 Pleasee unzip the archived files, including 'data.zip', 'bestSataDict_UNET 128p.zip' and 'bestSataDict_ImgAlignNet.zip'. After unzip process, please the files and folders exists:
+```
 -Root
 |-bestSataDict_UNET 128p.pt
 |-bestSataDict_ImgAlignNet.pt
@@ -35,6 +36,7 @@ Pleasee unzip the archived files, including 'data.zip', 'bestSataDict_UNET 128p.
       |-1-2-2.pt
       |-1-2-3.pt
       |-1-2-4.pt
+```
 # Usage
 The two jupyter notebook files contains the related information of how ImgAlignNet works and how the H&E images generated from noise.
 # Others
