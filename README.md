@@ -37,6 +37,15 @@ Pleasee unzip the archived files, including 'data.zip', 'bestSataDict_UNET 128p.
       |-1-2-3.pt
       |-1-2-4.pt
 ```
+# Environment
+All the packages below can be installed using anaconda.
+```
+pytorch 2.0+ (torch and torchvision)
+PIL
+abc (Abstract Base Classes)
+matplotlib
+jupyter
+```
 # Usage
 The two jupyter notebook files 'Notebook for classification task from ImgAlignNet.ipynb' and 'Notebook for diffusion model.ipynb' contains the related information of how ImgAlignNet works and how the H&E images generated from noise.
 # Others
